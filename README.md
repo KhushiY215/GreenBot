@@ -37,8 +37,9 @@ This repo contains a responsive static website that showcases the product concep
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/KhushiY215/greenbot.git```
+```bash
+git clone https://github.com/KhushiY215/greenbot.git
+```
 2. Navigate to the project folder:
 
 ```bash
